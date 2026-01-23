@@ -1,8 +1,8 @@
 ## Hi there👋, My name is Anil Baniya
-  🔭 Actively building real-world web projects to strengthen my skills  
-🌱 Learning backend development with Node.js and databases  
-👯 Open to collaborating on web development and open-source projects  
-💼 Seeking an entry-level / fresher web developer role
+-🔭 Actively building real-world web projects to strengthen my skills  
+-🌱 Learning backend development with Node.js and databases  
+-👯 Open to collaborating on web development and open-source projects  
+-💼 Seeking an entry-level / fresher web developer role
 <!--
 **anilbaaniya/anilbaaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
