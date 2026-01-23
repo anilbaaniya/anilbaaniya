@@ -1,5 +1,6 @@
 ## Hi there👋, My name is Anil Baniya
 -🔭 Actively building real-world web projects to strengthen my skills  
+
 -🌱 Learning backend development with Node.js and databases  
 -👯 Open to collaborating on web development and open-source projects  
 -💼 Seeking an entry-level / fresher web developer role
